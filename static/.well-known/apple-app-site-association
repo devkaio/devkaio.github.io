@@ -1,0 +1,30 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appIDs": [
+            "X78UPN78U6.com.kaypora.fireup.app"
+          ],
+          "paths": [
+            "*"
+          ],
+          "components": [
+            {
+                "/":"/home",
+                "comment":"Matches URL with a path /home"
+            },
+            {
+                "/":"/home/*",
+                "comment":"Matches any URL with a path that starts with /home/."
+            }
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "X78UPN78U6.com.kaypora.fireup.app"
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.kaypora.fireup.app",
+            "sha256_cert_fingerprints": [
+                "FB:E5:F6:CC:BD:D8:65:E1:E6:DD:8B:C8:CB:A8:F3:67:9C:0C:F7:AB:AD:1C:43:50:8A:71:CB:4F:7A:31:B7:99",
+                "a1:c7:15:dc:57:47:dd:0e:42:eb:2d:e6:cf:7e:20:72:ab:21:91:eb:23:9f:70:ae:28:74:8f:99:d5:5d:b7:f7",
+                "fb:e5:f6:cc:bd:d8:65:e1:e6:dd:8b:c8:cb:a8:f3:67:9c:0c:f7:ab:ad:1c:43:50:8a:71:cb:4f:7a:31:b7:99",
+                "5b:f5:89:63:a5:f1:68:11:07:9d:cc:f5:3d:08:b1:fc:d7:ac:8a:11:a2:69:c1:bd:ae:84:3e:ec:c2:d6:b4:4e",
+                "9e:c0:20:b7:f1:7c:4c:25:07:1a:35:5f:e3:aa:20:a8:42:da:cd:4b:45:5c:24:ba:91:30:ab:08:cb:0d:d9:f7",
+                "9E:C0:20:B7:F1:7C:4C:25:07:1A:35:5F:E3:AA:20:A8:42:DA:CD:4B:45:5C:24:BA:91:30:AB:08:CB:0D:D9:F7"
+            ]
+        }
+    }
+]
