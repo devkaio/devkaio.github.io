@@ -10,12 +10,6 @@ hostname = "kaio.dev"
 name = "Kaio C. de Oliveira"
 email = "hello@kaio.dev"
 
-[menu]
-[[menu.header]]
-name = "projects"
-weight = 0
-url = "projects"
-
 [[menu.header]]
 name = "about"
 weight = 1
